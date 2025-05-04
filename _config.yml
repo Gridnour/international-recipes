@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/Gridnour/internationalrecipes/tree/main
+source-code: https://github.com/Gridnour/international-recipes/tree/main
 
 ##########
 # SITE SETTINGS
@@ -34,11 +34,11 @@ author: Grace Ridnour-Nollsch
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: international_recipes
+metadata: "international_recipes"
 
 ##########
 # Site/Organization Branding 
-#   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
+# Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: University of Iowa School of Library and Information Science
 organization-link: https://slis.uiowa.edu/
