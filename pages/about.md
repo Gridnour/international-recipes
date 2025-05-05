@@ -14,7 +14,9 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a small collection of recipes gathered from the United States, South Korea, China, Turkey, and Mexico. I have lived and traveled to many countries and wanted to share some of my favorite recipes. I am also lactose intoleract and wanted to provide a way to find recipes that may not have dairy or have dairy substitutions. 
+
+This site was generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
@@ -22,6 +24,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-This is a small collection of recipes gathered from the United States, South Korea, China, Turkey, and Mexico. I have lived and traveled to many countries and wanted to share some of my favorite recipes. I am also lactose intoleract and wanted to provide a way to find recipes that may not have dairy or have dairy substitutions. 
 {% include cb/about_the_about.md %} 
