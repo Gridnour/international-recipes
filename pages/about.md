@@ -23,5 +23,5 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+This is a small collection of recipes gathered from the United States, South Korea, China, Turkey, and Mexico. I have lived and traveled to many countries and wanted to share some of my favorite recipes. I am also lactose intoleract and wanted to provide a way to find recipes that may not have dairy or have dairy substitutions. 
 {% include cb/about_the_about.md %} 
