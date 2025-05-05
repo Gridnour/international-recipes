@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://www.canva.com/design/DAGmjXSB8m0/5-Wq2BpUbR3GOXFzz57dzg/view?utm_content=DAGmjXSB8m0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha262393f26" %}
+{% include feature/jumbotron.html objectid=objects/header.jpg %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
