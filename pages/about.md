@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This is a small collection of recipes gathered from the United States, South Korea, China, Turkey, and Mexico. I have lived and traveled to many countries and wanted to share some of my favorite recipes. I am also lactose intoleract and wanted to provide a way to find recipes that may not have dairy or have dairy substitutions. 
+This is a small collection of recipes gathered from the United States, South Korea, China, Turkey, and Mexico. I have lived and traveled to many countries and wanted to share some of my favorite recipes. I am also lactose intoleract and wanted to provide a way to find recipes that may use dairy substitutions or not include dairy. 
 
 This site was generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
