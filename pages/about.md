@@ -23,4 +23,4 @@ This site was generated using [CollectionBuilder-GH](https://collectionbuilding.
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-{% include cb/about_the_about.md %} 
+
