@@ -9,6 +9,8 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="objects/header.jpg"%}
 
+{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+
 ## About the Collection
 
 This is a small collection of recipes gathered from the United States, South Korea, China, Turkey, and Mexico. I have lived and traveled to many countries and wanted to share some of my favorite recipes. I am also lactose intoleract and wanted to provide a way to find recipes that may use dairy substitutions or not include dairy. 
