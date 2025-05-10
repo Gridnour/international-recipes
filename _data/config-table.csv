@@ -1,5 +1,11 @@
 field,display_name
 title,Title
-date,Date
+dish in native language,Dish in Native Language
+country of origin,Country of Origin
+"creator(s)","Creator(s)"
 description,Description
-subject,Subjects
+alt-text,Alt-Text
+subject,Ingredients
+allergen and nutrition information,Allergen and Nutrition Information
+diet,Diet
+substitution,Substitution
